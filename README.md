@@ -1,2 +1,3 @@
 # activerelation
-Summarize activerecord relations
+
+Summarize activerecord relations in an easy-to-read format.
