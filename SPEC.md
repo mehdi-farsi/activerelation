@@ -10,4 +10,5 @@ TECHNICAL SPECS
 
 - Render result as JSON.
 - Create a Presenter in text that uses this JSON.
-- Create a presenter in HTML
+- Create a presenter in HTML.
+- Fetch metadatas from database.yml and schema.yml.
